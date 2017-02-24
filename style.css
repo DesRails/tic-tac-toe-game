@@ -1,13 +1,19 @@
+body {
+  font-family: "helvetica";
+}
 body, h1 {
   text-align: center;
 }
 div {
   margin: 0px auto;
 }
-
+div.row {
+  margin: 5px 0px;
+}
 div.square {
   width: 100px;
   height: 100px;
   background: #dddddd;
   display: inline-block;
+  margin: 0px 1px;
 }
