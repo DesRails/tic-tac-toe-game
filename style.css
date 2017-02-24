@@ -1,0 +1,6 @@
+div.square {
+  width: 100px;
+  height: 100px;
+  background: grey;
+  display: inline-block;
+}
